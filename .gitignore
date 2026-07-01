@@ -1,0 +1,10 @@
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# Folder sementara
+.tmp/
+temp/
+
+# File log
+*.log
